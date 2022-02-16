@@ -1,95 +1,84 @@
+<h3 align="center">𝐈𝐓𝐒 𝐌𝐄 𝐂𝐑𝐀𝐒𝐇𝐄𝐑</h3>
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ㅤ𝘼𝙇𝙇+𝙏𝙃𝙄𝙉𝙂𝙎+𝘼𝙍𝙀+𝙎𝙃𝙊𝙒+𝘾𝘼𝙎𝙀𝘿+🧬;𝙎𝙀𝙀𝙆+𝘼𝙉𝘿+𝙔𝙊𝙐+𝙎𝙃𝘼𝙇𝙇+𝙁𝙄𝙉𝘿+🥂;𝙀𝙑𝙀𝙍𝙔𝙏𝙃𝙄𝙉𝙂+/+𝙉𝙊𝙏𝙃𝙄𝙉𝙂+⚙️🧬;𝙄𝙏𝙎+𝙅𝙐𝙎𝙏+𝘼+𝙈𝘼𝙏𝙏𝙀𝙍+𝙊𝙁+𝙏𝙄𝙈𝙀)](https://git.io/typing-svg)
+
+ </a>
+</p>
+<div align="center">
   <p align="center">
-<a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<img src="https://i.imgur.com/wQOj5BU.jpeg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="200" height="200"/>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://www.instagram.com/white_hat_crasher?r=nametag"><img title="Crasher" src="https://img.shields.io/badge/INSTAGRAM-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=instagram"></a>
+</p>
+  <p align="center">
+<a href="http://wa.me/+919495944164"><img title="Crasher" src="https://img.shields.io/badge/whatsapp-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=whatsapp"></a>
+</p>
+  <p align="center">
+<a href="https://www.facebook.com/adarshthevannoor.thevannoor"><img title="Crasher" src="https://img.shields.io/badge/Facebook-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=facebook"></a>
+</p>
+  <p align="center">
+<a href="https://t.me/FmcAdarsh"><img title="Crasher" src="https://img.shields.io/badge/telegram-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=telegram"></a>
+</p>
+  <p align="center">
+<a href="https://youtube.com/c/Ghjah"><img title="Crasher" src="https://img.shields.io/badge/Youtube-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=youtube"></a>
+</p>
+  <p align="center">
+<a href="https://twitter.com/Itsemecrasher"><img title="Crasher" src="https://img.shields.io/badge/twitter-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=twitter"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+  <p align="center">
+<a href="https://itsmecrasher.wordpress.com/"><img title="Crasher" src="https://img.shields.io/badge/ALL GITS-cyberchekuthan/Adarsh_v3?color=black&style=for-the-badge&logo=github"></a>
+</p>
+𝐆𝐑𝐎𝐔𝐏𝐒 𝐀𝐍𝐃 𝐆𝐈𝐓𝐒
     <br>
        | © |
-        Reserved |
+        𝐌𝐀²𝐃 |
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farhan-dqz/JulieMwol&title=Profile%20Views)
-
-## Setup
-<div align="center">
-
-  ### Simple Method
-  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol) 
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
-  
-### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/farhan-dqz/Julie-Mwol
-$ cd Julie-Mwol
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node julie.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd Julie-Mwol
-$ npm i
-$ node julie.js
-```
-
-----
-
-  <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
-    
-<a href="https://github.com/farhan-dqz/followers">
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+##
+  <h3 align="center"> 𝙹𝙾𝙸𝙽 𝙾𝚄𝚁 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙶𝚁𝙾𝚄𝙿:</h3>
 <p align="center">
-<a href="https://github.com/farhan-dqz/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
-</p>
-
-## 📢 Guide
-Click WA logo to Join Support Group 👇
+ʜᴇͧʀᷤᴍͤɪͬ† ⚚ ᴘɪⷡᴋⷪᴀⷮᴄᷤʜᴜ
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
-  <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
-  </div>
-    
-### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
+  <a href="https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH" target="blank"><img align="center" src="https://i.imgur.com/jkvYZxr.jpeg" alt="kyrie.baran" height="150" width="200" /></a>
+</p>
 
-## Developers
+##
+<p align="center">
+ᴍᷟᴜͧѕᷤɪͥᴄͨ ᴡᷱᴏͦʀͬʟᷝᴅͩ 𖣘
+    <br>
+<br>
+  <a href="https://chat.whatsapp.com/GFSnPYyUKFp4JxdwGp36a0" target="blank"><img align="center" src="https://i.imgur.com/vRleIYI.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
+</p>
+
+
+
+## HOW TO MAKE A BOT? 
+<div align="center"> 
+
+
+## ASENA BOT MAKING VIDEO
+
+ [![ANY DOUBT REFER IT](https://i.imgur.com/r7qhYmz.jpeg)](https://youtu.be/EyfVigi2GUw)
+
+</p>
+
+
+## 𝐂𝐑𝐄𝐃𝐈𝐓𝐒
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![ADARSH AS CRASHER](https://i.imgur.com/ihizNpz.jpeg?size=100)](https://i.imgur.com/O5mRu2I.jpeg?size=100) | [![AMALSER](https://i.imgur.com/O5mRu2I.jpeg?size=100)](https://github.com/cyberchekuthan) |  [![MATHEWS](https://i.imgur.com/qVHSihd.jpeg?size=100)](https://github.com/AI-VIKI) | [![KANTHARI](https://i.imgur.com/lgxkvK7.jpeg?size=100)](https://i.imgur.com/lgxkvK7.jpeg) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[ADARSH-CRASHER](https://chat.whatsapp.com/KVPJ8cQw4lR9zTTFPM8mbH) | [ABRU-369](https://i.imgur.com/LIdGqR9.png) | [MATHEWS](https://github.com/AI-VIKI) | [KANTHARI](https://i.imgur.com/lgxkvK7.jpeg) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
-
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
